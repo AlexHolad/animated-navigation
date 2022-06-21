@@ -224,6 +224,10 @@ section {
   color: var(--primaryColor);
 }
 
+section h1 {
+  text-align: center;
+}
+
 section#home {
   background-image: url("https://images.unsplash.com/photo-1621184976252-4a8c472ccec4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1630&q=80");
   background-size: cover;
